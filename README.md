@@ -1,4 +1,3 @@
-# lack_inspire
 # Crawling Webpage Text Data Using Python With Scrapy
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
