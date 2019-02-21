@@ -46,10 +46,6 @@ Tools yang dibutuhkan :
    scrapy startproject indoxxi
    ```
 
-   ![1](E:\KULIAH\SMT 6\WEB MINING\Week 1\1.PNG)
-
-   ​								Contoh struktur project scrapy
-
    File settings.py memuat setting untuk project yang bisa dirubah rubah nantinya.
 
    Folder spiders memuat file file spider yang akan berisi code program dari web page yang akan diambil datanya.
@@ -68,11 +64,7 @@ Tools yang dibutuhkan :
 
 5. Edit File Spider
 
-   Setelah generate file spider baru maka akan didapatkan file dengan format .py dalam folder **spider**. Pada settingan awal (default) dari program akan di dapatkan tampilan berikut :
-
-    ![2](E:\KULIAH\SMT 6\WEB MINING\Week 1\2.PNG)
-
-   Setelah itu anda bisa menambakan perintah program lain dalam def parse.
+   Setelah generate file spider baru maka akan didapatkan file dengan format .py dalam folder **spider**. Setelah itu anda bisa menambakan perintah program lain dalam def parse.
 
 6. Export Data Crawling Menjadi CSV, JSON, atau Excel
 
@@ -91,8 +83,5 @@ Tools yang dibutuhkan :
    FEED_FORMAT = "csv"
    FEED_URI = "xxi_data.csv"
    ```
-
-   ![3](E:\KULIAH\SMT 6\WEB MINING\Week 1\3.PNG)
-
 
 
